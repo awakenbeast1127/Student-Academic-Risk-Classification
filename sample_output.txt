@@ -1,0 +1,13 @@
+STUDENT ACADEMIC RISK REPORT
+----------------------------------------------------------
+Aarav        High Risk    | Low academic average, Low attendance, Low laboratory score
+Sara         Medium Risk  | Low attendance, Low laboratory score
+Ibrahim      Medium Risk  | Low academic average, Low laboratory score
+Meera        No Risk      | No risk factors
+Kabir        No Risk      | No risk factors
+----------------------------------------------------------
+Category summary:
+High Risk   : 1
+Medium Risk : 2
+Low Risk    : 0
+No Risk     : 2
